@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/The-HMI-Guy/AlchemyUniversity-Week7-Upgradeable/issues"
   },
-  "homepage": "https://github.com/The-HMI-Guy/AlchemyUniversity-Week7-Upgradeable#readme"
+  "homepage": "https://github.com/The-HMI-Guy/AlchemyUniversity-Week7-Upgradeable#readme",
+  "devDependencies": {
+    "hardhat": "^2.13.0"
+  }
 }
